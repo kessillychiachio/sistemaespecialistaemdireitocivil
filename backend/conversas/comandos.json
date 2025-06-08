@@ -1,0 +1,27 @@
+{
+    "conversas": [
+        {
+            "mensagens": [
+                "quero pesquisar um artigo",
+                "como pesquiso artigos?",
+                "buscar artigo"
+            ],
+            "resposta": "Você pode digitar uma palavra-chave ou uma pergunta que eu vou buscar artigos do Código Civil relacionados."
+        },
+        {
+            "mensagens": [
+                "pesquise sobre capacidade",
+                "tem algo sobre obrigação?",
+                "me mostre artigo sobre herança"
+            ],
+            "resposta": "Claro! Estou procurando os artigos mais relevantes para sua dúvida..."
+        },
+        {
+            "mensagens": [
+                "como consultar os artigos?",
+                "como funciona a busca por artigos?"
+            ],
+            "resposta": "Basta me enviar uma pergunta ou um termo e eu buscarei os artigos mais relacionados com base em palavras-chave."
+        }
+    ]
+}

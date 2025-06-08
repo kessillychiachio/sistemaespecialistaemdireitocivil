@@ -1,0 +1,31 @@
+{
+    "conversas": [
+        {
+            "mensagens": [
+                "oi",
+                "olá",
+                "ola",
+                "bom dia",
+                "boa tarde",
+                "boa noite"
+            ],
+            "resposta": "Olá! Como posso te ajudar com Direito Civil hoje?"
+        },
+        {
+            "mensagens": [
+                "tudo bem?",
+                "como você está?",
+                "como vai?"
+            ],
+            "resposta": "Estou ótimo e pronto para responder suas dúvidas sobre Direito Civil!"
+        },
+        {
+            "mensagens": [
+                "obrigado",
+                "valeu",
+                "agradecido"
+            ],
+            "resposta": "De nada! Estou à disposição para mais dúvidas."
+        }
+    ]
+}

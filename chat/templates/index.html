@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Robô Direito Civil</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <div class="chat-container">
+      <div class="chat-box" id="chatBox"></div>
+
+      <div class="input-area">
+        <input
+          type="text"
+          id="perguntaInput"
+          placeholder="Digite sua pergunta..."
+        />
+        <button class="send-button" onclick="enviarPergunta()">Enviar</button>
+      </div>
+    </div>
+
+    <script>
+      function adicionarMensagem(classe, texto) {
+        const div = document.createElement("div");
+        div.className = classe;
+        div.innerText = texto;
+        document.getElementById("chatBox").appendChild(div);
+        document.getElementById("chatBox").scrollTop =
+          document.getElementById("chatBox").scrollHeight;
+      }
+
+      function adicionarArtigos(artigos) {
+        artigos.forEach((artigo) => {
+          const div = document.createElement("div");
+          div.className = "bot";
+          div.innerHTML = `<strong>${artigo.titulo}</strong><br>${artigo.texto}`;
+          document.getElementById("chatBox").appendChild(div);
+        });
+      }
+
+      function enviarPergunta() {
+        const input = document.getElementById("perguntaInput");
+        const pergunta = input.value.trim();
+        if (!pergunta) return;
+
+        adicionarMensagem("user", pergunta);
+        input.value = "";
+
+        fetch("/responder", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ pergunta }),
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            adicionarMensagem("bot", data.resposta);
+
+            if (data.artigos_pesquisados) {
+              adicionarArtigos(data.artigos);
+            }
+          })
+          .catch((error) => {
+            adicionarMensagem("bot", "❌ Erro ao comunicar com o robô.");
+            console.error(error);
+          });
+      }
+
+      document
+        .getElementById("perguntaInput")
+        .addEventListener("keypress", function (e) {
+          if (e.key === "Enter") {
+            enviarPergunta();
+          }
+        });
+    </script>
+  </body>
+</html>

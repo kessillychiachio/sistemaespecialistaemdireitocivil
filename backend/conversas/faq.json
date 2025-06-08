@@ -1,0 +1,468 @@
+{
+  "conversas": [
+    {
+      "mensagens": [
+        "O que é pessoa natural?",
+        "Defina pessoa natural",
+        "Conceito de pessoa natural",
+        "Pessoa natural",
+        "O que significa pessoa natural no direito civil?",
+        "Explique pessoa natural",
+        "quem é pessoa natural",
+        "o que é ser pessoa natural",
+        "O que é pessoa fisica?",
+        "Pessoa fisica"
+      ],
+      "resposta": "Pessoa natural é o ser humano considerado como sujeito de direitos e deveres."
+    },
+    {
+      "mensagens": [
+        "Quando começa a personalidade civil?",
+        "Início da personalidade civil",
+        "A personalidade civil começa quando?",
+        "Qual o marco inicial da personalidade civil?",
+        "Nascimento e personalidade civil"
+      ],
+      "resposta": "Começa com o nascimento com vida, mas a lei protege os direitos do nascituro desde a concepção."
+    },
+    {
+      "mensagens": [
+        "Com quantos anos a pessoa é absolutamente incapaz?",
+        "Idade para ser absolutamente incapaz",
+        "Quem é absolutamente incapaz?",
+        "Até que idade é absolutamente incapaz?",
+        "Incapacidade absoluta"
+      ],
+      "resposta": "Até 16 anos completos, a pessoa é considerada absolutamente incapaz para os atos da vida civil."
+    },
+    {
+      "mensagens": [
+        "Quais são os relativamente incapazes?",
+        "Quem é relativamente incapaz?",
+        "Exemplos de relativamente incapazes",
+        "Quais as causas de incapacidade relativa?",
+        "Incapacidade relativa"
+      ],
+      "resposta": "São os maiores de 16 e menores de 18, os ébrios, viciados em tóxicos, entre outros."
+    },
+    {
+      "mensagens": [
+        "Quando a menoridade cessa?",
+        "Fim da menoridade",
+        "Com que idade a menoridade acaba?",
+        "Cessação da menoridade"
+      ],
+      "resposta": "Aos 18 anos completos."
+    },
+    {
+      "mensagens": [
+        "Como um menor pode ser emancipado?",
+        "Formas de emancipação de menor",
+        "Emancipação de menores",
+        "Como funciona a emancipação?",
+        "Menor emancipado"
+      ],
+      "resposta": "Por concessão dos pais, casamento, emprego público, colação de grau ou economia própria."
+    },
+    {
+      "mensagens": [
+        "O que é domicílio civil?",
+        "Definição de domicílio civil",
+        "Qual o conceito de domicílio civil?",
+        "Domicílio no Código Civil",
+        "Significado de domicílio civil"
+      ],
+      "resposta": "É o local onde a pessoa reside com ânimo definitivo."
+    },
+    {
+      "mensagens": [
+        "O que é capacidade de fato?",
+        "Definição de capacidade de fato",
+        "Capacidade de fato no direito civil",
+        "Explique capacidade de fato",
+        "Capacidade de exercício"
+      ],
+      "resposta": "É a aptidão para exercer pessoalmente os atos da vida civil."
+    },
+    {
+      "mensagens": [
+        "O que é personalidade jurídica?",
+        "Definição de personalidade jurídica",
+        "Conceito de personalidade jurídica",
+        "Personalidade jurídica no direito"
+      ],
+      "resposta": "É a aptidão genérica para ser sujeito de direitos e obrigações."
+    },
+    {
+      "mensagens": [
+        "O que é pessoa jurídica?",
+        "Defina pessoa jurídica",
+        "Conceito de pessoa jurídica",
+        "Pessoa jurídica no direito civil"
+      ],
+      "resposta": "É a entidade formada por pessoas ou bens com personalidade jurídica própria."
+    },
+    {
+      "mensagens": [
+        "Qual a diferença entre pessoa natural e pessoa jurídica?",
+        "Diferença entre pessoa física e jurídica",
+        "Comparar pessoa natural e jurídica",
+        "Pessoa natural e pessoa jurídica diferenças"
+      ],
+      "resposta": "Pessoa natural é o ser humano; pessoa jurídica é uma entidade com personalidade própria."
+    },
+    {
+      "mensagens": [
+        "O que é ausência?",
+        "Definição de ausência",
+        "Ausência no direito civil",
+        "Conceito de ausência"
+      ],
+      "resposta": "É o desaparecimento da pessoa sem deixar notícias, podendo gerar abertura de sucessão."
+    },
+    {
+      "mensagens": [
+        "Quando ocorre morte presumida?",
+        "Casos de morte presumida",
+        "O que é morte presumida?",
+        "Morte presumida no Código Civil"
+      ],
+      "resposta": "Quando alguém desaparece em situação de risco ou não é encontrado após a guerra."
+    },
+    {
+      "mensagens": [
+        "O que é estado civil?",
+        "Definição de estado civil",
+        "Qual o significado de estado civil?",
+        "Estado civil"
+      ],
+      "resposta": "É a condição da pessoa quanto ao casamento: solteiro, casado, separado, viúvo, etc."
+    },
+    {
+      "mensagens": [
+        "O que é capacidade jurídica?",
+        "Capacidade jurídica",
+        "Qual a capacidade jurídica?",
+        "Conceito de capacidade jurídica"
+      ],
+      "resposta": "É a aptidão para exercer pessoalmente os atos da vida civil."
+    },
+    {
+      "mensagens": [
+        "Quais são os direitos da personalidade?",
+        "Direitos da personalidade",
+        "O que são direitos da personalidade?",
+        "Lista de direitos da personalidade"
+      ],
+      "resposta": "São direitos inerentes à pessoa, como honra, imagem, nome e privacidade."
+    },
+    {
+      "mensagens": [
+        "O que é nome civil?",
+        "Definição de nome civil",
+        "Nome no direito civil",
+        "Nome da pessoa"
+      ],
+      "resposta": "É o conjunto do prenome e sobrenome que identifica legalmente a pessoa."
+    },
+    {
+      "mensagens": [
+        "É possível mudar o nome?",
+        "Pode mudar o nome?",
+        "Alteração de nome",
+        "Mudar nome no registro"
+      ],
+      "resposta": "Sim, nos casos previstos em lei, como exposição ao ridículo ou mudança de gênero."
+    },
+    {
+      "mensagens": [
+        "O que é domicílio necessário?",
+        "Domicílio necessário",
+        "Tipos de domicílio",
+        "Conceito de domicílio necessário"
+      ],
+      "resposta": "É o domicílio legalmente fixado para determinadas pessoas, como militares e incapazes."
+    },
+    {
+      "mensagens": [
+        "O que é emancipação?",
+        "Definição de emancipação",
+        "Conceito de emancipação",
+        "Emancipação legal"
+      ],
+      "resposta": "É o ato que antecipa a capacidade civil plena ao menor com pelo menos 16 anos."
+    },
+    {
+      "mensagens": [
+        "O que é personalidade civil?",
+        "Definição de personalidade civil",
+        "Personalidade civil",
+        "Conceito de personalidade civil"
+      ],
+      "resposta": "É a qualidade que torna alguém sujeito de direitos e obrigações civis."
+    },
+    {
+      "mensagens": [
+        "Quem pode ser considerado incapaz?",
+        "Tipos de incapazes",
+        "Quais são os incapazes?",
+        "Categorias de incapazes"
+      ],
+      "resposta": "Menores de 16, ébrios habituais, viciados em tóxico, entre outros listados em lei."
+    },
+    {
+      "mensagens": [
+        "O que é tutela?",
+        "Definição de tutela",
+        "Tutela no direito civil",
+        "Conceito de tutela"
+      ],
+      "resposta": "É o encargo dado a alguém para cuidar de pessoa menor ou incapaz."
+    },
+    {
+      "mensagens": [
+        "O que é curatela?",
+        "Definição de curatela",
+        "Curatela no direito civil",
+        "Conceito de curatela"
+      ],
+      "resposta": "É a medida de proteção a maiores incapazes de cuidar de si mesmos."
+    },
+    {
+      "mensagens": [
+        "O que é regime de bens?",
+        "Definição de regime de bens",
+        "Regime de bens no casamento",
+        "Conceito de regime de bens"
+      ],
+      "resposta": "É o conjunto de regras que define como os bens dos cônjuges são administrados."
+    },
+    {
+      "mensagens": [
+        "Quais são os regimes de bens?",
+        "Tipos de regimes de bens",
+        "Regimes de bens",
+        "Lista de regimes de bens"
+      ],
+      "resposta": "Comunhão universal, comunhão parcial, separação total e participação final nos aquestos."
+    },
+    {
+      "mensagens": [
+        "O que é comunhão parcial de bens?",
+        "Definição de comunhão parcial",
+        "Comunhão parcial de bens",
+        "Conceito de comunhão parcial"
+      ],
+      "resposta": "É o regime onde os bens adquiridos após o casamento são comuns ao casal."
+    },
+    {
+      "mensagens": [
+        "O que é testamento?",
+        "Definição de testamento",
+        "Testamento no Código Civil",
+        "Conceito de testamento"
+      ],
+      "resposta": "É o ato pelo qual alguém dispõe de seus bens para depois da morte."
+    },
+    {
+      "mensagens": [
+        "Quem pode fazer testamento?",
+        "Capacidade para testar",
+        "Quem pode testar?",
+        "Requisitos para testamento"
+      ],
+      "resposta": "Maiores de 16 anos, em plena capacidade de entendimento e vontade."
+    },
+    {
+      "mensagens": [
+        "O que é herança?",
+        "Definição de herança",
+        "Herança no Código Civil",
+        "Conceito de herança"
+      ],
+      "resposta": "É o conjunto de bens, direitos e obrigações deixados por alguém falecido."
+    },
+    {
+      "mensagens": [
+        "Quem são os herdeiros necessários?",
+        "Herdeiros necessários",
+        "Lista de herdeiros necessários",
+        "Herdeiros por lei"
+      ],
+      "resposta": "Descendentes, ascendentes e cônjuge sobrevivente."
+    },
+    {
+      "mensagens": [
+        "O que é sucessão legítima?",
+        "Definição de sucessão legítima",
+        "Sucessão legítima",
+        "Conceito de sucessão legítima"
+      ],
+      "resposta": "É a sucessão determinada por lei quando não há testamento."
+    },
+    {
+      "mensagens": [
+        "O que é sucessão testamentária?",
+        "Definição de sucessão testamentária",
+        "Sucessão testamentária",
+        "Conceito de sucessão testamentária"
+      ],
+      "resposta": "É a transmissão de bens conforme a vontade expressa em testamento."
+    },
+    {
+      "mensagens": [
+        "Qual a diferença entre herdeiro e legatário?",
+        "Herdeiro vs legatário",
+        "Diferença legatário e herdeiro",
+        "Comparar herdeiro e legatário"
+      ],
+      "resposta": "Herdeiro recebe parte do patrimônio; legatário recebe bens específicos."
+    },
+    {
+      "mensagens": [
+        "O que é usucapião?",
+        "Definição de usucapião",
+        "Usucapião no Código Civil",
+        "Como funciona usucapião?",
+        "Conceito de usucapião"
+      ],
+      "resposta": "É a aquisição de propriedade pela posse prolongada e ininterrupta."
+    },
+    {
+      "mensagens": [
+        "Quanto tempo é necessário para usucapião?",
+        "Prazos de usucapião",
+        "Tempo para usucapião",
+        "Requisitos de tempo para usucapião"
+      ],
+      "resposta": "Varia entre 2 a 15 anos, conforme o tipo e situação do imóvel."
+    },
+    {
+      "mensagens": [
+        "O que é propriedade?",
+        "Definição de propriedade",
+        "Propriedade no Código Civil",
+        "Conceito de propriedade",
+        "Direito de propriedade"
+      ],
+      "resposta": "É o direito de usar, gozar e dispor de um bem, e reavê-lo de quem injustamente o possua."
+    },
+    {
+      "mensagens": [
+        "O que é posse?",
+        "Definição de posse",
+        "Posse no Código Civil",
+        "Conceito de posse"
+      ],
+      "resposta": "É o exercício de fato, pleno ou não, de algum dos poderes inerentes à propriedade."
+    },
+    {
+      "mensagens": [
+        "Qual a diferença entre posse e propriedade?",
+        "Diferença posse e propriedade",
+        "Posse vs propriedade",
+        "Comparar posse e propriedade"
+      ],
+      "resposta": "Posse é o controle de fato; propriedade é o direito legal sobre o bem."
+    },
+    {
+      "mensagens": [
+        "O que é contrato?",
+        "Definição de contrato",
+        "Contrato no Direito Civil",
+        "Conceito de contrato"
+      ],
+      "resposta": "É o acordo entre partes para criar, modificar ou extinguir obrigações."
+    },
+    {
+      "mensagens": [
+        "O que é obrigação?",
+        "Definição de obrigação",
+        "Obrigação no Código Civil",
+        "Conceito de obrigação"
+      ],
+      "resposta": "É o vínculo jurídico pelo qual alguém deve dar, fazer ou não fazer algo."
+    },
+    {
+      "mensagens": [
+        "Quais são os elementos do contrato?",
+        "Elementos essenciais do contrato",
+        "Requisitos do contrato",
+        "Partes do contrato"
+      ],
+      "resposta": "Agente capaz, objeto lícito e forma prescrita ou não defesa em lei."
+    },
+    {
+      "mensagens": [
+        "O que é contrato de adesão?",
+        "Definição de contrato de adesão",
+        "Contrato de adesão",
+        "Conceito de contrato de adesão"
+      ],
+      "resposta": "É o contrato cujas cláusulas são impostas por uma das partes, sem possibilidade de discussão."
+    },
+    {
+      "mensagens": [
+        "O que é responsabilidade civil?",
+        "Definição de responsabilidade civil",
+        "Responsabilidade civil no Código Civil",
+        "Conceito de responsabilidade civil"
+      ],
+      "resposta": "É a obrigação de reparar um dano causado a outra pessoa."
+    },
+    {
+      "mensagens": [
+        "Quais são os tipos de responsabilidade civil?",
+        "Tipos de responsabilidade civil",
+        "Classificação da responsabilidade civil",
+        "Responsabilidade subjetiva e objetiva"
+      ],
+      "resposta": "Subjetiva (com culpa) e objetiva (independe de culpa)."
+    },
+    {
+      "mensagens": [
+        "O que é dano moral?",
+        "Definição de dano moral",
+        "Dano moral",
+        "Conceito de dano moral"
+      ],
+      "resposta": "É o prejuízo que atinge a honra, a imagem ou o bem-estar psicológico da pessoa."
+    },
+    {
+      "mensagens": [
+        "O que é dano material?",
+        "Definição de dano material",
+        "Dano material",
+        "Conceito de dano material"
+      ],
+      "resposta": "É o prejuízo econômico causado a alguém, como perda de bens ou dinheiro."
+    },
+    {
+      "mensagens": [
+        "O que é prescrição?",
+        "Definição de prescrição",
+        "Prescrição no Código Civil",
+        "Conceito de prescrição"
+      ],
+      "resposta": "É a perda do direito de ação pelo decurso do tempo."
+    },
+    {
+      "mensagens": [
+        "O que é decadência?",
+        "Definição de decadência",
+        "Decadência no Código Civil",
+        "Conceito de decadência"
+      ],
+      "resposta": "É a perda do direito material pelo não exercício dentro do prazo legal."
+    },
+    {
+      "mensagens": [
+        "Qual a diferença entre prescrição e decadência?",
+        "Prescrição vs decadência",
+        "Diferença decadência e prescrição",
+        "Comparar prescrição e decadência"
+      ],
+      "resposta": "Prescrição afeta o direito de ação; decadência extingue o próprio direito."
+    }
+  ]
+}

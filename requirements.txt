@@ -1,0 +1,7 @@
+Flask
+requests
+chatterbot
+chatterbot-corpus
+nltk
+scikit-learn
+pytz
